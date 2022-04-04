@@ -26,7 +26,8 @@ export default function Page() {
             available. Everything is still awesome. Just use the search form to
             find your way.
           </p>
-
+       <EntryHeader title="Derp Derp />      
+         <EntryHeader title="Working?" />
           <form
             className={styles.form}
             onSubmit={(e) => {
